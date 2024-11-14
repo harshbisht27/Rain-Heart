@@ -13,7 +13,6 @@ Follow these steps to set up and run the HeartRain animation in a React project.
 
 ### 1. Clone the Repository
 
-in terminal
 
 git clone <repository-url>
 cd <repository-folder>
